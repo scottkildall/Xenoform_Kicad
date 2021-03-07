@@ -46,6 +46,10 @@ there are two footprints associated here, I use the -AM version for my work.
 JST_XH_B6B-XH-AM
 JST_XH_B6B-XH-A
 
+(4) PJ-320D
+
+This is a TRRS jack that is, by default, a surface-mount option, I have created a thru-hole version and also mvoed the SMT version to my collection.
+
 ### Custom Symbols
 I have several custom symbols and footprints for these projects, located here
 
@@ -54,6 +58,11 @@ I have several custom symbols and footprints for these projects, located here
 Located in the Xenoform_Kicad.pretty folder
 (1) 3.5mm_TRS_jack.kicad_mod
 (2) Adafruit_MetroMini.kicad_mod
+
+
+Jack_3.5mm_PJ320D_Horizontal.kicad_mod: surface-mount footprint for PJ320D
+
+Jack_3.5mm_PJ320D_ThruHole.kicad_mod: through hole footprint for PJ320D
 
 
 
