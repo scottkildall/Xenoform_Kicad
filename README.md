@@ -41,6 +41,10 @@ Pin #16 = VDD (V+)
 (4) B6B-XH JST header
 This one seems to be missing from some other symbol libraries and footprints, so I amalgamated my own.
 
+there are two footprints associated here, I use the -AM version for my work.
+
+JST_XH_B6B-XH-AM
+JST_XH_B6B-XH-A
 
 ### Custom Symbols
 I have several custom symbols and footprints for these projects, located here
@@ -49,7 +53,7 @@ I have several custom symbols and footprints for these projects, located here
 ### Custom Footprints
 Located in the Xenoform_Kicad.pretty folder
 (1) 3.5mm_TRS_jack.kicad_mod
-(1) Adafruit_MetroMini.kicad_mod
+(2) Adafruit_MetroMini.kicad_mod
 
 
 
