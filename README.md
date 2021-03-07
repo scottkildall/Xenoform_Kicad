@@ -38,6 +38,8 @@ Pin #14 = Ch 0
 Pin #15 = Ch 2
 Pin #16 = VDD (V+)
 
+(4) B6B-XH JST header
+This one seems to be missing from some other symbol libraries and footprints, so I amalgamated my own.
 
 
 ### Custom Symbols
