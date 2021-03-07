@@ -7,6 +7,10 @@
 ### Overview
 I have several custom symbols and footprints for parts and circuits, that I've created with Kicad 5.0
 
+### Todo
+Move resistor footprint over
+Resolve Wemos Lolin D32 Pro symbol + check footprint
+
 ### Parts
 
 (1) TRS Jack:
@@ -77,3 +81,8 @@ Jack_3.5mm_PJ320D_ThruHole.kicad_mod: through hole footprint for PJ320D
 (6)
 Potentiometer_Bourns_PTV09A-1_Single_Vertical
 
+(7) Lolin_D32_Board
+Footprint for ESP32 Lolin D32 Pro
+
+(8) MAX98357_Breakout
+Footprint for MAX98357 breakout
