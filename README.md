@@ -89,3 +89,6 @@ Footprint for MAX98357 breakout
 
 (9) Resistor_TRT.kicad_mod
 Footprint for 1/4 watt resistor, very simple
+
+(10) LolinD32.kicad_mod
+Simple footprint for LolinD32
