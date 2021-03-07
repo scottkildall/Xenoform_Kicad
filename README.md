@@ -86,3 +86,6 @@ Footprint for ESP32 Lolin D32 Pro
 
 (8) MAX98357_Breakout
 Footprint for MAX98357 breakout
+
+(9) Resistor_TRT.kicad_mod
+Footprint for 1/4 watt resistor, very simple
